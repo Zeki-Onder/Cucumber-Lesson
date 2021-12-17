@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="2.802">
+    <testcase classname="US1013 Kullanici DB Util ile concort Hotel database'ini test eder" name="Kullanici tHOTEL tablosundan istedigi Emaili update eder" time="2.346">
+        <system-out>
+            <![CDATA[Given kullanici DBUtill ile CHQA database'ine baglanir......................passed
+Then DBU IDHotel degeri 1024 olan kaydin Email degerini "buisbukadar@gmail.com" yapar.passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
